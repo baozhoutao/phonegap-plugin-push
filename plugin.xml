@@ -139,7 +139,7 @@
 		<source-file src="src/android/com/adobe/phonegap/push/PushPlugin.java" target-dir="src/com/adobe/phonegap/push/" />
 		
 		<source-file src="src/android/libs/pushservice-4.5.3.48.jar" target-dir="libs/" />
-		<source-file src="src/android/com/baidu/phonegap/push/PushMessageReceiver.java" target-dir="src/com/baidu/phonegap/push/" />
+		<source-file src="src/android/com/baidu/phonegap/push/BAIDUPushMessageReceiver.java" target-dir="src/com/baidu/phonegap/push/" />
 		<source-file src="src/android/com/baidu/phonegap/push/Utils.java" target-dir="src/com/baidu/phonegap/push/" />
 		<source-file src="src/android/com/baidu/phonegap/push/MyPushConstants.java" target-dir="src/com/baidu/phonegap/push/" />
 		<source-file src="src/android/com/baidu/phonegap/push/PushHandlerActivity.java" target-dir="src/com/baidu/phonegap/push/" />
